@@ -6,4 +6,6 @@ vcenter_password: "Nexenta1!"
 datacenter: "KRD"
 cluster: "Cluster_lst"
 folder: "TESTDeploy"
+
+st_type: "i"
 ...
