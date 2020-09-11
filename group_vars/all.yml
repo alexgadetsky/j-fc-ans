@@ -1,0 +1,9 @@
+---
+domain: "hypernexenta.corp"
+vcenter_hostname: "vcenter.hypernexenta.corp"
+vcenter_username: "Administrator@vsphere.local"
+vcenter_password: "Nexenta1!"
+datacenter: "KRD"
+cluster: "Cluster_lst"
+folder: "TESTDeploy"
+...
